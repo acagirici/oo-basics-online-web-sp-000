@@ -8,6 +8,8 @@ class Shoe
   end
   
   def cobble
-    puts "the has been repaired"
+    puts "Your shoe is as good as new!"
   end
+  
+  def shoe_new
 end
